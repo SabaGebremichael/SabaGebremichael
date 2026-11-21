@@ -38,35 +38,39 @@ Python | Pandas | NumPy | Scikit-learn | R
 
 📊 Featured Projects
 
-🛒 Customer Segmentation — Online Retail
+🛒 Online Retail Customer Segmentation
 
-Analyzed online retail transaction data to understand customer purchasing behavior.
+Customer segmentation project combining Python, RFM analysis, K-Means clustering, and Power BI.
 
-Cleaned and transformed data using Python and Pandas
+Cleaned and transformed online retail transaction data using Python and Pandas
 
-Performed RFM (Recency, Frequency, Monetary) analysis
+Performed RFM analysis to evaluate customer behavior
 
 Applied K-Means clustering to identify customer segments
 
-Developed an interactive Power BI dashboard
+Developed an interactive Power BI executive dashboard
 
-Analyzed revenue, customers, purchase frequency, customer value, and customer behavior
+Analyzed revenue, customer trends, purchase frequency, and customer value
+
+Technologies: Python | Pandas | Scikit-learn | Power BI | DAX
 
 🏠 Mortgage Data Warehouse & Business Intelligence
 
-Developed a data-driven mortgage reporting solution using SQL Server and Microsoft Business Intelligence technologies.
+End-to-end mortgage business intelligence solution demonstrating SQL Server, SSIS, dimensional modeling, SSAS, and SSRS.
 
-Worked with Excel, SQL, XML, SQL Server, and Azure SQL
+Integrated data from multiple source systems
 
-Developed SSIS ETL processes
+Developed SSIS ETL workflows for ODS and data warehouse loading
 
-Worked with operational and dimensional data models
+Implemented data validation and error-handling processes
 
-Created SQL queries and stored procedures
+Built a dimensional data warehouse model
 
-Developed reporting solutions using SSRS
+Developed SSAS analytical cube structures
 
-Worked with SSAS for analytical reporting
+Created SSRS mortgage performance reporting
+
+Technologies: SQL Server | SSIS | SSAS | SSRS | T-SQL | ETL | Dimensional Modeling
 
 🎯 Career Goal
 
