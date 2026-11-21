@@ -80,6 +80,6 @@ I'm looking for an opportunity where I can use data analysis and business intell
 
 Email: seiona1212@gmail.com
 
-LinkedIn: linkedin.com/in/saba-gebremichael-88227a29a
+LinkedIn: https://www.linkedin.com/in/saba-gebremichael-88227a29a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bb2qOL6SiQmeX5TRj9NlZGA%3D%3D
 
 GitHub: SabaGebremichael
