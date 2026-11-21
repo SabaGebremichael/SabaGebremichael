@@ -2,7 +2,7 @@ Hi, I'm Saba Gebremichael 👋
 
 Data Analyst | Power BI | SQL | Business Intelligence
 
-I'm Data Analyst focused on turning data into clear, actionable business insights.
+I'm a Data Analyst focused on turning data into clear, actionable business insights.
 
 I have hands-on experience with Power BI, SQL, Excel, DAX, Power Query, SSIS/ETL, SQL Server, Azure SQL, and Python.
 
